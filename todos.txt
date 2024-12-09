@@ -1,0 +1,3 @@
+TODO: [TUESDAY -- 10 Dec -- 2024]
+	- [ ] Implemant an inventory system
+	- [ ] Try to make a better TUI system
